@@ -7,33 +7,25 @@
 [![My Twitter](https://img.shields.io/badge/twitter-545454.svg?logo=twitter)](https://twitter.com/WhyNotWin11)
 
 # WhyNotWin11
-Detection Script to help identify why your PC isn't Windows 11 Release Ready.
-
+Bilgisayarınıza neden Windows 11 kuramayacağınızı belirlemenize yardımcı olacak ufak bir program.
 ![image](https://user-images.githubusercontent.com/716581/124361675-38706c00-dbfe-11eb-8524-4a767617f66f.png)
 
 ----
 
-## Download
+## İndirme Linkleri
 
-[Download latest stable release](https://github.com/rcmaehl/WhyNotWin11/releases/latest/download/WhyNotWin11.exe)
+[Stabil son sürüm](https://github.com/rcmaehl/WhyNotWin11/releases/latest/download/WhyNotWin11.exe)
 
-[Download latest testing release](https://nightly.link/rcmaehl/WhyNotWin11/workflows/wnw11/main/WNW11.zip)\
-**Keep in mind that you will have to update testing releases manually**
+[Beta son sürüm](https://nightly.link/rcmaehl/WhyNotWin11/workflows/wnw11/main/WNW11.zip)\
+**Beta sürümlerini manuel olarak güncellemeniz gerekeceğini unutmayın**
 
-## System Requirements
- |Minimum Requirements|Recommended
+## Sistem Gereksinimleri
+ |Minimum Gereksinimler|Önerilen
 ----|----|----
-OS|Windows 8.1|Latest Windows 10 Build
-CPU|32-bit Single Core|64-bit Dual Core or Higher
-RAM (Memory)|40MB Free|100MB Free
-Disk (Storage)|5MB Free|100MB Free
-
-## Compiling
-
-1. Download and run "AutoIt Full Installation" from [official website](https://www.autoitscript.com/site/autoit/downloads). 
-1. Get the source code either by [downloading zip](https://github.com/rcmaehl/WhyNotWin11/archive/main.zip) or do `git clone https://github.com/rcmaehl/WhyNotWin11`.
-1. Right click on `WhyNotWin11.au3` in the WhyNotWin11 directory and select "Compile Script (x64) (or x86 if you have 32 bit Windows install).
-1. This will create WhyNotWin11.exe in the same directory.
+İşletim Sistemi|Windows 8.1|En güncel Windows 10 Sürümü
+İşlemci|32-bit Tek çekirdek|64-bit Çift çekirdek ve üstü
+RAM (|40MB Boş alan|100MB Boş alan
+Depolama|5MB Boş alan|100MB Boş alan
 
 ## Contributing
 
