@@ -24,7 +24,7 @@ Bilgisayarınıza neden Windows 11 kuramayacağınızı belirlemenize yardımcı
 ----|----|----
 İşletim Sistemi|Windows 8.1|En güncel Windows 10 Sürümü
 İşlemci|32-bit Tek çekirdek|64-bit Çift çekirdek ve üstü
-RAM (|40MB Boş alan|100MB Boş alan
+RAM |40MB Boş alan|100MB Boş alan
 Depolama|5MB Boş alan|100MB Boş alan
 
 ## Contributing
